@@ -1,5 +1,5 @@
 ---
-title: null
+strip_title: true
 ---
 
 ## Random Cybersecurity Tip of the Day
