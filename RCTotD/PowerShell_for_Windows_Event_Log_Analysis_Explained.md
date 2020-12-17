@@ -1,10 +1,3 @@
----
-layout: post
-title: "PowerShell for Windows Event Log Analysis Explained"
-date: 2020-12-17 12:31:00 -0000
-categories: PowerShell Analysis WindowsEventLogs Explained
----
-
 # PowerShell for Windows Event Log Analysis Explained
 
 This is a continuation of my most recent post: "Random Cybersecurity Tip of the Day: PowerShell for Windows event log analysis." In today's article, I'm going to break down the script and explain as I go.
