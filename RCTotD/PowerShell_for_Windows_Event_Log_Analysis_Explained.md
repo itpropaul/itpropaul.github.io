@@ -50,12 +50,12 @@ Lastly, we use the Format-Table cmdlet with the -AutoSize parameter to ensure th
 ---
 
 References: <br>
-Get-WinEvent -FilterXPath ideas - [](https://materials.rangeforce.com/tutorial/2020/03/03/Windows-Logging/)
+Get-WinEvent -FilterXPath ideas - [https://materials.rangeforce.com/tutorial/2020/03/03/Windows-Logging/](https://materials.rangeforce.com/tutorial/2020/03/03/Windows-Logging/)
 
-"filter left, format right" - https://docs.microsoft.com/en-us/previous-versions/technet-magazine/ee361592(v=msdn.10)
+"filter left, format right" - [https://docs.microsoft.com/en-us/previous-versions/technet-magazine/ee361592(v=msdn.10)](https://docs.microsoft.com/en-us/previous-versions/technet-magazine/ee361592(v=msdn.10))
 
-Get-WinEvent -FilterXPath with multiple values examples - https://powershell.org/2019/08/a-better-way-to-search-events/
+Get-WinEvent -FilterXPath with multiple values examples - [https://powershell.org/2019/08/a-better-way-to-search-events/](https://powershell.org/2019/08/a-better-way-to-search-events/)
 
-Splitting on new lines - https://stackoverflow.com/a/39252621/1078245
+Splitting on new lines - [https://stackoverflow.com/a/39252621/1078245](https://stackoverflow.com/a/39252621/1078245)
 
-Select-Object -ExpandProperty parameter to output just the string value - https://devblogs.microsoft.com/powershell/select-expandproperty-propertyname/
+Select-Object -ExpandProperty parameter to output just the string value - [https://devblogs.microsoft.com/powershell/select-expandproperty-propertyname/](https://devblogs.microsoft.com/powershell/select-expandproperty-propertyname/)
