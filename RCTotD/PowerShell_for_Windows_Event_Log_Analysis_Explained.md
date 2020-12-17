@@ -50,7 +50,7 @@ Lastly, we use the Format-Table cmdlet with the -AutoSize parameter to ensure th
 ---
 
 References: <br>
-Get-WinEvent -FilterXPath ideas - https://materials.rangeforce.com/tutorial/2020/03/03/Windows-Logging/
+Get-WinEvent -FilterXPath ideas - (https://materials.rangeforce.com/tutorial/2020/03/03/Windows-Logging/)
 
 "filter left, format right" - https://docs.microsoft.com/en-us/previous-versions/technet-magazine/ee361592(v=msdn.10)
 
