@@ -47,7 +47,7 @@ We sort our grouped lines of Destination IP addresses by those occurring most fr
 
 Lastly, we use the Format-Table cmdlet with the -AutoSize parameter to ensure that our output doesn't get abbreviated automatically by PowerShell.
 
-
+---
 
 References: <br>
 Get-WinEvent -FilterXPath ideas - https://materials.rangeforce.com/tutorial/2020/03/03/Windows-Logging/
