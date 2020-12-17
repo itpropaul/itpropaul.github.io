@@ -7,4 +7,4 @@ title: null
 1. System process has a PID other than 4
 2. 
 
-10. [PowerShell for Windows Event Log Analysis Explained]()
+10. [PowerShell for Windows Event Log Analysis Explained]({% post_url PowerShell for Windows Event Log Analysis Explained %})
