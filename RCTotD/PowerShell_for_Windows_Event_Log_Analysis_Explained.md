@@ -1,6 +1,6 @@
 # PowerShell for Windows Event Log Analysis Explained
 
-This is a continuation of my most recent post: ( l i n k h e r e)"Random Cybersecurity Tip of the Day: PowerShell for Windows event log analysis" In today's article, I'm going to break down the script and explain as I go.
+This is a continuation of my most recent post: [PowerShell for Windows Event Log Analysis](https://paul-masek.com/RCTotD/PowerShell_for_Windows_Event_Log_Analysis). In today's article, I'm going to break down the script and explain as I go.
 
 ```
 (Get-WinEvent -Path c:\sysmon.evtx -FilterXPath 'Event/System/EventID=3' | 
