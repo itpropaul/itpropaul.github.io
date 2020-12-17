@@ -1,5 +1,4 @@
 ## Random Cybersecurity Tip of the Day
-1. System process has a PID other than 4
-2. 
+**RCTotD Explained** 11. [PowerShell for Windows Event Log Analysis Explained](https://paul-masek.com/RCTotD/PowerShell_for_Windows_Event_Log_Analysis_Explained)
 
-10. [PowerShell for Windows Event Log Analysis Explained](https://paul-masek.com/RCTotD/PowerShell_for_Windows_Event_Log_Analysis_Explained)
+10. 
