@@ -1,7 +1,3 @@
----
-title: null
----
-
 ## Random Cybersecurity Tip of the Day
 1. System process has a PID other than 4
 2. 
