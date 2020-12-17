@@ -1,4 +1,4 @@
-# Random Cybersecurity Tip of the Day: 
+# Random Cybersecurity Tip of the Day
 ### PowerShell for Windows Event Log Analysis
 
 In this example I'm just looking at the destination IP addresses in all of the recorded network connections and grouping them together. Once grouped together, then I'm sorting them from most frequent to least. This example is Sysmon Event 3 (Network Connection), but the same method will apply to other Windows Event logs.
