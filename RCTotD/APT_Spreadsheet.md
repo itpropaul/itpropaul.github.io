@@ -1,5 +1,5 @@
 # Random Cybersecurity Tip of the Day
-### Florian Roth's APT Spreadsheet
+### APT Spreadsheet
 
 Have you heard a nation state hacker group referred to by different names? 
 
