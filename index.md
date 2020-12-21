@@ -10,3 +10,5 @@
 7_ [Microsoft-signed File ≠ Trusted File](https://paul-masek.com/RCTotD/Microsoft_Signed_File_Not_Trusted_File)
 
 6_ [Centralized Log Collection](https://paul-masek.com/RCTotD/Centralized_Log_Collection)
+
+5_ [Mentors and Mentees](https://paul-masek.com/RCTotD/Mentors_and_Mentees)
