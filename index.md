@@ -16,3 +16,7 @@
 4_ [Getting into Infosec](https://paul-masek.com/RCTotD/Getting_into_Infosec)
 
 3_ [Dont Settle.](https://paul-masek.com/RCTotD/Dont_Settle)
+
+2_ [CTRL+R is your friend on the command line!](https://paul-masek.com/RCTotD/CTRL_R_Is_Your_Friend)
+
+1_ [In Windows, if you notice that the System process has a PID other than 4, it's not System.](https://paul-masek.com/RCTotD/System_PID_Not_4)
