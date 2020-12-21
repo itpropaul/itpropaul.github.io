@@ -6,3 +6,5 @@
 9_ [Throwaway Windows 10 VM](https://paul-masek.com/RCTotD/Throwaway_Win10_VM)
 
 8_ [Florian Roth's APT Spreadsheet](https://paul-masek.com/RCTotD/Florian_Roths_APT_Spreadsheet)
+
+7_ [Microsoft-signed File ≠ Trusted File](https://paul-masek.com/RCTotD/Microsoft_Signed_File_Not_Trusted_File)
