@@ -9,4 +9,4 @@ Out-String).Split([Environment]::NewLine).Trim() |
 Select-String DestinationIp |Group-Object -NoElement |
 Sort-Object count -Descending |Format-Table -AutoSize
 ```
-There's a decent amount of magic dust in here which I'll explain in my next post.
+There's a decent amount of magic dust in here which I'll explain in my [next post](https://paul-masek.com/RCTotD/PowerShell_for_Windows_Event_Log_Analysis_Explained).
