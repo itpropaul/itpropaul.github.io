@@ -8,3 +8,5 @@
 8_ [Florian Roth's APT Spreadsheet](https://paul-masek.com/RCTotD/Florian_Roths_APT_Spreadsheet)
 
 7_ [Microsoft-signed File ≠ Trusted File](https://paul-masek.com/RCTotD/Microsoft_Signed_File_Not_Trusted_File)
+
+6_ [Centralized Log Collection](https://paul-masek.com/RCTotD/Centralized_Log_Collection)
