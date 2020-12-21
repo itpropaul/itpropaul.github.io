@@ -14,3 +14,5 @@
 5_ [Mentors and Mentees](https://paul-masek.com/RCTotD/Mentors_and_Mentees)
 
 4_ [Getting into Infosec](https://paul-masek.com/RCTotD/Getting_into_Infosec)
+
+3_ [Dont Settle.](https://paul-masek.com/RCTotD/Dont_Settle)
