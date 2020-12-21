@@ -5,7 +5,7 @@ Do you ever have a need for quickly spinning up a throwaway Windows 10 VM that y
 
 Have you ever felt guilty about misusing Windows 10 licensing for this kind of thing?
 
-There's a better way. Enter Windows 10 development environment VMs. https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
+There's a better way. Enter Windows 10 development environment VMs. [https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/](https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/)
 
 They even come packaged and ready to go in four different flavors: VMWare, Hyper-V, Parallels, and VirtualBox.
 
