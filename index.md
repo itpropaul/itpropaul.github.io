@@ -15,7 +15,7 @@
 
 4_ [Getting into Infosec](https://paul-masek.com/RCTotD/Getting_into_Infosec)
 
-3_ [Dont Settle.](https://paul-masek.com/RCTotD/Dont_Settle)
+3_ [Don't Settle.](https://paul-masek.com/RCTotD/Dont_Settle)
 
 2_ [CTRL+R is your friend on the command line!](https://paul-masek.com/RCTotD/CTRL_R_Is_Your_Friend)
 
