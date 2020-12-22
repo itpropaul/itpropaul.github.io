@@ -1,4 +1,7 @@
 # Random Cybersecurity Tip of the Day
+
+12_ [Resources for Analyzing Windows Logs](https://paul-masek.com/RCTotD/Resources_for_Analyzing_Windows_Logs)
+
 11_ [PowerShell for Windows Event Log Analysis Explained](https://paul-masek.com/RCTotD/PowerShell_for_Windows_Event_Log_Analysis_Explained) **RCTotD Explained**
 
 10_ [PowerShell for Windows Event Log Analysis](https://paul-masek.com/RCTotD/PowerShell_for_Windows_Event_Log_Analysis)
