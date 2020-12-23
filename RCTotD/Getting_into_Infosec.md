@@ -1,7 +1,7 @@
 # Random Cybersecurity Tip of the Day
 ### Getting into Infosec
 
-I was developing a DIY Cybersecurity University type of website and then I stumbled across James Smith's site: https://dfirmadness.com/getting-into-infosec/the-five-pillars/.
+I was developing a DIY Cybersecurity University type of website and then I stumbled across James Smith's site: <https://dfirmadness.com/getting-into-infosec/the-five-pillars/>.
 
 Do yourself a favor and check it out!
 
