@@ -20,5 +20,5 @@ NSA Deep Dive: "Spotting the Adversary with Windows Event Log Monitoring" [https
 Site From JPCert that shows Event Log evidence of attacker tools after they've infiltrated the network: [https://jpcertcc.github.io/ToolAnalysisResultSheet/](https://jpcertcc.github.io/ToolAnalysisResultSheet/)
 
 Two fantastic open source projects doing work with mapping Windows Event Logs to Mitre ATT&CK Techniques:
-[https://github.com/mitre-attack/attack-datasources](https://github.com/mitre-attack/attack-datasources) by Jamie Williams, Jose Rodriguez, and Adam Pennin
-[https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) by Samir Bousseaden
+- [https://github.com/mitre-attack/attack-datasources](https://github.com/mitre-attack/attack-datasources) by Jamie Williams, Jose Rodriguez, and Adam Pennington
+- [https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) by Samir Bousseaden
