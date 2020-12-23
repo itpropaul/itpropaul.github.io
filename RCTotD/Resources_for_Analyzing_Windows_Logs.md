@@ -12,8 +12,8 @@ Applied Incident Response - "Windows Event Log Reference": [http://www.appliedin
 SANS Blue Team Wiki - Windows Event Log Table: [https://wiki.sans.blue/#!Tools/WindowsEventLogsTable.md](https://wiki.sans.blue/#!Tools/WindowsEventLogsTable.md)
 
 Whether you use NXLog or not, they have great documentation on Windows Event Logs/IDs:
-Whole section on Windows Event Logs: [https://nxlog.co/documentation/nxlog-user-guide/windows-eventlog.html](https://nxlog.co/documentation/nxlog-user-guide/windows-eventlog.html)
-Specific Event IDs to focus on: [https://nxlog.co/documentation/nxlog-user-guide/eventlog-eventids.html](https://nxlog.co/documentation/nxlog-user-guide/eventlog-eventids.html)
+- Whole section on Windows Event Logs: [https://nxlog.co/documentation/nxlog-user-guide/windows-eventlog.html](https://nxlog.co/documentation/nxlog-user-guide/windows-eventlog.html)
+- Specific Event IDs to focus on: [https://nxlog.co/documentation/nxlog-user-guide/eventlog-eventids.html](https://nxlog.co/documentation/nxlog-user-guide/eventlog-eventids.html)
 
 NSA Deep Dive: "Spotting the Adversary with Windows Event Log Monitoring" [https://apps.nsa.gov/iaarchive/library/reports/spotting-the-adversary-with-windows-event-log-monitoring.cfm](https://apps.nsa.gov/iaarchive/library/reports/spotting-the-adversary-with-windows-event-log-monitoring.cfm)
 
