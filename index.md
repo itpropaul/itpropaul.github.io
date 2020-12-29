@@ -1,5 +1,7 @@
 # Random Cybersecurity Tip of the Day
 
+13_ [Thoughts and Takeaways from "The Cuckoo's Egg" by Clifford Stoll](https://paul-masek.com/RCTotD/The_Cuckoos_Egg_Takeaways)
+
 12_ [Resources for Analyzing Windows Logs](https://paul-masek.com/RCTotD/Resources_for_Analyzing_Windows_Logs)
 
 11_ [PowerShell for Windows Event Log Analysis Explained](https://paul-masek.com/RCTotD/PowerShell_for_Windows_Event_Log_Analysis_Explained) **RCTotD Explained**
