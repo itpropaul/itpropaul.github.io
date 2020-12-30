@@ -1,4 +1,6 @@
-# Random Cybersecurity Tip of the Day
+<div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
+<div align="center"> <i>12/10/2020 - Paul Masek</i> </div>
+
 ### APT Spreadsheet
 
 Have you heard a nation state hacker group referred to by different names? 

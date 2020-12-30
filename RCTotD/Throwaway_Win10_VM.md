@@ -1,4 +1,6 @@
-# Random Cybersecurity Tip of the Day
+<div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
+<div align="center"> <i>12/11/2020 - Paul Masek</i> </div>
+
 ### Throwaway Windows 10 VM
 
 Do you ever have a need for quickly spinning up a throwaway Windows 10 VM that you don't have to spend 10,000 hours updating and configuring?

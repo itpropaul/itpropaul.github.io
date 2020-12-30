@@ -1,5 +1,8 @@
-# Random Cybersecurity Tip of the Day
+<div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
+<div align="center"> <i>12/29/2020 - Paul Masek</i> </div>
+
 ### Thoughts and Takeaways from "The Cuckoo's Egg" by Clifford Stoll
+
 - I listened to Clifford describe how perfect a supply chain attack would be in his book from over 30 years ago while the news of Sunburst was unfolding that day.
 	- **Don't think that you can't learn about Cybersecurity from resources that are over a few years old.** This book is a classic for a reason. Yes the operating systems and software have been updated to an extent, but many tactics and techniques employed by attackers and defenders remain the same.
 - A recurring theme in this book is Clifford's logbook. Clifford had predecessors that had made similar observations of things going awry in their networks, but one of the big differentiators was that Clifford took detailed notes. 

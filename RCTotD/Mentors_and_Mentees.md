@@ -1,4 +1,6 @@
-# Random Cybersecurity Tip of the Day
+<div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
+<div align="center"> <i>12/7/2020 - Paul Masek</i> </div>
+
 ### Surround yourself with mentors and mentees
 
 Oftentimes I wish our industry was more like the trades where we would have apprenticeships. Finding yourself mentors and mentees is a close alternative and a way that you can "bootstrap" that process yourself.

@@ -1,4 +1,6 @@
-# Random Cybersecurity Tip of the Day
+<div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
+<div align="center"> <i>12/9/2020 - Paul Masek</i> </div>
+
 ### Microsoft-signed File ≠ Trusted File
 
 In other words, just because a program/script/DLL isn't malicious, doesn't mean it can't be used maliciously. 

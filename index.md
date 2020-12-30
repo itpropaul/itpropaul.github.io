@@ -1,27 +1,27 @@
 # Random Cybersecurity Tip of the Day
 
-13_ [Thoughts and Takeaways from "The Cuckoo's Egg" by Clifford Stoll](https://paul-masek.com/RCTotD/The_Cuckoos_Egg_Takeaways)
+[Thoughts and Takeaways from "The Cuckoo's Egg" by Clifford Stoll](https://paul-masek.com/RCTotD/The_Cuckoos_Egg_Takeaways) _12/29/2020
 
-12_ [Resources for Analyzing Windows Logs](https://paul-masek.com/RCTotD/Resources_for_Analyzing_Windows_Logs)
+[Resources for Analyzing Windows Logs](https://paul-masek.com/RCTotD/Resources_for_Analyzing_Windows_Logs) _12/24/2020
 
-11_ [PowerShell for Windows Event Log Analysis Explained](https://paul-masek.com/RCTotD/PowerShell_for_Windows_Event_Log_Analysis_Explained) **RCTotD Explained**
+[PowerShell for Windows Event Log Analysis Explained](https://paul-masek.com/RCTotD/PowerShell_for_Windows_Event_Log_Analysis_Explained) **RCTotD Explained** _12/17/2020
 
-10_ [PowerShell for Windows Event Log Analysis](https://paul-masek.com/RCTotD/PowerShell_for_Windows_Event_Log_Analysis)
+[PowerShell for Windows Event Log Analysis](https://paul-masek.com/RCTotD/PowerShell_for_Windows_Event_Log_Analysis) _12/14/2020
 
-9_ [Throwaway Windows 10 VM](https://paul-masek.com/RCTotD/Throwaway_Win10_VM)
+[Throwaway Windows 10 VM](https://paul-masek.com/RCTotD/Throwaway_Win10_VM) _12/11/2020
 
-8_ [APT Spreadsheet](https://paul-masek.com/RCTotD/APT_Spreadsheet)
+[APT Spreadsheet](https://paul-masek.com/RCTotD/APT_Spreadsheet) _12/10/2020
 
-7_ [Microsoft-signed File ≠ Trusted File](https://paul-masek.com/RCTotD/Microsoft_Signed_File_Not_Trusted_File)
+[Microsoft-signed File ≠ Trusted File](https://paul-masek.com/RCTotD/Microsoft_Signed_File_Not_Trusted_File) _12/9/2020
 
-6_ [Centralized Log Collection](https://paul-masek.com/RCTotD/Centralized_Log_Collection)
+[Centralized Log Collection](https://paul-masek.com/RCTotD/Centralized_Log_Collection) _12/8/2020
 
-5_ [Mentors and Mentees](https://paul-masek.com/RCTotD/Mentors_and_Mentees)
+[Mentors and Mentees](https://paul-masek.com/RCTotD/Mentors_and_Mentees) _12/7/2020
 
-4_ [Getting into Infosec](https://paul-masek.com/RCTotD/Getting_into_Infosec)
+[Getting into Infosec](https://paul-masek.com/RCTotD/Getting_into_Infosec) _12/4/2020
 
-3_ [Don't Settle.](https://paul-masek.com/RCTotD/Dont_Settle)
+[Don't Settle.](https://paul-masek.com/RCTotD/Dont_Settle) _12/2/2020
 
-2_ [CTRL+R is your friend on the command line!](https://paul-masek.com/RCTotD/CTRL_R_Is_Your_Friend)
+[CTRL+R is your friend on the command line!](https://paul-masek.com/RCTotD/CTRL_R_Is_Your_Friend) _12/1/2020
 
-1_ [In Windows, if you notice that the System process has a PID other than 4, it's not System.](https://paul-masek.com/RCTotD/System_PID_Not_4)
+[In Windows, if you notice that the System process has a PID other than 4, it's not System.](https://paul-masek.com/RCTotD/System_PID_Not_4) _11/26/2020

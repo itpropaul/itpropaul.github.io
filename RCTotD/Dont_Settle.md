@@ -1,4 +1,6 @@
-# Random Cybersecurity Tip of the Day
+<div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
+<div align="center"> <i>12/2/2020 - Paul Masek</i> </div>
+
 ### Don't settle.
 
 A large part of being in Cybersecurity as a defender is asking questions that will ultimately allow you to answer whether something is malicious or not. Oftentimes, you'll want to answer a question that you just don't have the answer to as you can't seem to find it or you're not collecting that data.

@@ -1,4 +1,6 @@
-# Random Cybersecurity Tip of the Day
+<div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
+<div align="center"> <i>12/8/2020 - Paul Masek</i> </div>
+
 ### Centralized Log Collection
 
 “The best time to plant a tree was 20 years ago. The second best time is now.” -Chinese Proverb
