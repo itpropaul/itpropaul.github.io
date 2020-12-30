@@ -1,4 +1,4 @@
-# Random Cybersecurity Tip of the Day
+<div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
 
 [Thoughts and Takeaways from "The Cuckoo's Egg" by Clifford Stoll](https://paul-masek.com/RCTotD/The_Cuckoos_Egg_Takeaways) _12/29/2020
 
