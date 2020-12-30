@@ -19,6 +19,8 @@ NSA Deep Dive: "Spotting the Adversary with Windows Event Log Monitoring" <https
 
 Site From JPCert that shows Event Log evidence of attacker tools after they've infiltrated the network: <https://jpcertcc.github.io/ToolAnalysisResultSheet/>
 
+In a similar vein to the last resource, the following resource from Forward Defense discusses common attacker techniques/tools to laterally move through an environment and the Windows Event Log evidence of how to detect that activity. <https://www.forwarddefense.com/pdfs/Lateral-Movement-Analysis.pdf>
+
 Two fantastic open source projects doing work with mapping Windows Event Logs to Mitre ATT&CK Techniques:
 - <https://github.com/mitre-attack/attack-datasources> by Jamie Williams, Jose Rodriguez, and Adam Pennington
 - <https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES> by Samir Bousseaden
