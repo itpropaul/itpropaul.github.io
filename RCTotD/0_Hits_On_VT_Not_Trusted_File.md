@@ -1,7 +1,7 @@
 <div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
 <div align="center"> <i>12/31/2020 - Paul Masek</i> </div>
 
-### 0 or Very Few Hits on Virustotal != Trusted File
+### 0 or Very Few Hits on VirusTotal != Trusted File
 
 "SolarWinds.Orion.Core.BusinessLayer.dll", a file made infamous from Sunburst had 0 hits on VirusTotal on December 13th 2020. Check out what you get now with this MD5 hash: b91ce2fa41029f6955bff20079468448.
 
