@@ -1,5 +1,7 @@
 <div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
 
+[0 or Very Few Hits on Virustotal != Trusted File](https://paul-masek.com/RCTotD/0_Hits_On_VT_Not_Trusted_File) _12/31/2020
+
 [Thoughts and Takeaways from "The Cuckoo's Egg" by Clifford Stoll](https://paul-masek.com/RCTotD/The_Cuckoos_Egg_Takeaways) _12/29/2020
 
 [Resources for Analyzing Windows Logs](https://paul-masek.com/RCTotD/Resources_for_Analyzing_Windows_Logs) _12/24/2020
