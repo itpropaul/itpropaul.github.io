@@ -1,5 +1,7 @@
 <div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
 
+[Identify Burnout and Take Action](https://paul-masek.com/RCTotD/Identify_Burnout_and_Take_Action) _2/10/2021
+
 [SANS Institute YouTube Channel = Quality Cybersecurity Education](https://paul-masek.com/RCTotD/SANS_YouTube_Channel) _1/8/2021
 
 [0 or Very Few Hits on Virustotal != Trusted File](https://paul-masek.com/RCTotD/0_Hits_On_VT_Not_Trusted_File) _12/31/2020
