@@ -1,5 +1,7 @@
 <div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
 
+[Resources for Analyzing Windows Logs](https://paul-masek.com/RCTotD/Resources_for_Analyzing_Windows_Logs) _12/24/2020 _Updated_3/4/2021
+
 [Identify Burnout and Take Action](https://paul-masek.com/RCTotD/Identify_Burnout_and_Take_Action) _2/10/2021
 
 [SANS Institute YouTube Channel = Quality Cybersecurity Education](https://paul-masek.com/RCTotD/SANS_YouTube_Channel) _1/8/2021
@@ -8,7 +10,7 @@
 
 [Thoughts and Takeaways from "The Cuckoo's Egg" by Clifford Stoll](https://paul-masek.com/RCTotD/The_Cuckoos_Egg_Takeaways) _12/29/2020
 
-[Resources for Analyzing Windows Logs](https://paul-masek.com/RCTotD/Resources_for_Analyzing_Windows_Logs) _12/24/2020
+[Getting into Infosec](https://paul-masek.com/RCTotD/Getting_into_Infosec) _12/4/2020 _Updated_12/17/2020
 
 [PowerShell for Windows Event Log Analysis Explained](https://paul-masek.com/RCTotD/PowerShell_for_Windows_Event_Log_Analysis_Explained) **RCTotD Explained** _12/17/2020
 
@@ -23,8 +25,6 @@
 [Centralized Log Collection](https://paul-masek.com/RCTotD/Centralized_Log_Collection) _12/8/2020
 
 [Mentors and Mentees](https://paul-masek.com/RCTotD/Mentors_and_Mentees) _12/7/2020
-
-[Getting into Infosec](https://paul-masek.com/RCTotD/Getting_into_Infosec) _12/4/2020
 
 [Don't Settle.](https://paul-masek.com/RCTotD/Dont_Settle) _12/2/2020
 

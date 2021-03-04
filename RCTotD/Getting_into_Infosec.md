@@ -9,4 +9,5 @@ Do yourself a favor and check it out!
 
 There's something there for everyone. Beginners and experienced folks alike.
 
->[UPDATE 12/17/2020] - I'm going to create the DIY Cybersecurity University page here on this site after all. Stay tuned! With that said, definitely still check out James Smith's site above.
+>[Update 12/17/2020]<br>
+>I'm going to create the DIY Cybersecurity University page here on this site after all. Stay tuned! With that said, definitely still check out James Smith's site above.
