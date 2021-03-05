@@ -26,7 +26,7 @@ Two fantastic open source projects doing work with mapping Windows Event Logs to
 - <https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES> by Samir Bousseaden
 
 [Update 12/30/2020]<br>
-In a similar vein to the last resource, the following resource from Forward Defense discusses common attacker techniques/tools to laterally move through an environment and the Windows Event Log evidence of how to detect that activity. <https://www.forwarddefense.com/pdfs/Lateral-Movement-Analysis.pdf>
+The following resource from Forward Defense discusses common attacker techniques/tools to laterally move through an environment and the Windows Event Log evidence of how to detect that activity. <https://www.forwarddefense.com/pdfs/Lateral-Movement-Analysis.pdf>
 
 [Update 3/4/2021]<br>
 A relatively new resource to this realm of Windows Logging resources is a site called <https://what2log.com>. I first discovered it from this SANS webcast titled, [Life is a Bit Easier with What2Log.com | Mick Douglas & Flynn Weeks](https://youtu.be/JSEGfYsP7zQ). <br>
