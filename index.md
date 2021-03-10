@@ -1,5 +1,7 @@
 <div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
 
+[Easy Button Detection for Recent Exchange Server Vulnerabilities](https://paul-masek.com/RCTotD/Easy_Button_Detection_for_Recent_Exchange_Server_Vulnerabilities) _3/10/2021
+
 [Resources for Analyzing Windows Logs](https://paul-masek.com/RCTotD/Resources_for_Analyzing_Windows_Logs) _12/24/2020 _Updated_3/4/2021
 
 [Identify Burnout and Take Action](https://paul-masek.com/RCTotD/Identify_Burnout_and_Take_Action) _2/10/2021
