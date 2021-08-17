@@ -1,5 +1,3 @@
-<div align="center"><h1>Random Cybersecurity Tip of the Day</h1></div>
-
 [Quick Port Lookup](https://paul-masek.com/RCTotD/Quick_Port_Lookup) _4/20/2021
 
 [Easy Button Detection for Recent Exchange Server Vulnerabilities](https://paul-masek.com/RCTotD/Easy_Button_Detection_for_Recent_Exchange_Server_Vulnerabilities) _3/10/2021
