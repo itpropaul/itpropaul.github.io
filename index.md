@@ -1,3 +1,5 @@
+[SANS SEC401 Course and GIAC GSEC Exam](https://paul-masek.com/RCTotD/SANS_SEC401_and_GIAC_GSEC_Exam) _8/17/2021
+
 [Quick Port Lookup](https://paul-masek.com/RCTotD/Quick_Port_Lookup) _4/20/2021
 
 [Easy Button Detection for Recent Exchange Server Vulnerabilities](https://paul-masek.com/RCTotD/Easy_Button_Detection_for_Recent_Exchange_Server_Vulnerabilities) _3/10/2021
